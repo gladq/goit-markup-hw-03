@@ -84,7 +84,7 @@ button {
 
 .header-page {
     border-bottom: 1px solid var(--color-cornflower);
-    padding: 24px 0 24px
+    padding: 24px 0 24px;
 }
 
 .header-container {
@@ -131,7 +131,6 @@ button {
 
 .header-nav-link {
     display: block;
-
     color: var(--primary-color);
     font-weight: 500;
     font-size: 16px;
@@ -157,7 +156,6 @@ button {
 .header-contacts-link {
     display: inline-block;
     font-style: normal;
-
     color: var(--color-slate);
     font-weight: 400;
     font-size: 16px;
@@ -181,7 +179,6 @@ button {
     max-width: 496px;
     text-align: center;
     margin: 0 auto 48px;
-
     color: var(--color-white);
     font-weight: 700;
     font-size: 56px;
@@ -198,7 +195,6 @@ button {
     display: block;
     margin: 0 auto;
     min-width: 169px;
-
     color: var(--color-white);
     background-color: var(--accent-color);
     font-family: "Roboto", sans-serif;
@@ -231,7 +227,6 @@ button {
 
 .benefits-title {
     margin-bottom: 8px;
-
     color: var(--primary-color);
     font-weight: 500;
     font-size: 20px;
@@ -247,7 +242,7 @@ button {
     letter-spacing: 0.02em;
 }
 
-/* PREVIEW */
+/* Preview */
 
 .preview {
     padding-bottom: 120px;
@@ -260,7 +255,6 @@ button {
 
 .preview-title {
     margin-bottom: 72px;
-
     color: var(--primary-color);
     font-weight: 700;
     font-size: 36px;
@@ -270,7 +264,7 @@ button {
     letter-spacing: 0.02em;
 }
 
-/* OUR TEAM */
+/* Our Team */
 
 .team {
     background-color: var(--color-cloud);
@@ -279,7 +273,6 @@ button {
 
 .team-title {
     margin-bottom: 72px;
-
     color: var(--primary-color);
     font-weight: 700;
     font-size: 36px;
@@ -292,7 +285,6 @@ button {
 .team-list {
     display: flex;
     gap: 24px;
-
     background-color: var(--color-cloud);
 }
 
@@ -301,7 +293,6 @@ button {
         0px 1px 1px 0px rgba(46, 47, 66, 0.16),
         0px 1px 6px 0px rgba(46, 47, 66, 0.08);
     border-radius: 0px 0px 4px 4px;
-
     background-color: var(--color-white);
 }
 
@@ -312,7 +303,6 @@ button {
 .team-member {
     text-align: center;
     margin-bottom: 8px;
-
     color: var(--primary-color);
     font-weight: 500;
     font-size: 20px;
@@ -334,14 +324,12 @@ button {
 
 .footer {
     padding: 100px 0;
-
     background-color: var(--primary-color);
 }
 
 .footer-logo-blue {
     display: inline-block;
     margin-bottom: 16px;
-
     color: var(--accent-color);
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -363,7 +351,6 @@ button {
 
 .footer-subtext {
     width: 264px;
-
     color: var(--color-cloud);
     font-weight: 400;
     font-size: 16px;
@@ -388,7 +375,6 @@ button {
     border: 1px solid var(--color-cornflower);
     border-radius: 4px;
     padding: 12px 24px 12px 24px;
-
     color: var(--accent-color);
     background-color: var(--color-cloud);
     font-family: "Roboto", sans-serif;
@@ -404,7 +390,6 @@ button {
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),
         0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.1);
     border: 1px solid transparent;
-
     color: var(--color-white);
     background-color: var(--color-ocean);
 }
