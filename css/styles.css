@@ -80,11 +80,12 @@ button {
     gap: 24px;
 }
 
-/* PAGE STUDIO */
+/* Page Studio */
 
 .header-page {
     border-bottom: 1px solid var(--color-cornflower);
-    padding: 24px 0;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-container {
@@ -170,7 +171,7 @@ button {
     color: var(--color-ocean);
 }
 
-/* HERO SECTION */
+/* Hero Section */
 
 .hero-section {
     background-color: var(--primary-color);
@@ -214,7 +215,7 @@ button {
     background-color: var(--color-ocean);
 }
 
-/* BENEFITS SECTION */
+/* Benefits Section */
 
 .benefits {
     padding: 120px 0;
@@ -371,7 +372,7 @@ button {
     letter-spacing: 0.02em;
 }
 
-/* PORTFOLIO PAGE */
+/* Portfolio Page */
 
 .proposals {
     padding: 96px 0 120px;
@@ -423,7 +424,6 @@ button {
 
 .product-title {
     margin-bottom: 8px;
-
     color: var(--primary-color);
     font-weight: 500;
     font-size: 20px;
